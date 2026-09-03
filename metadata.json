@@ -1,0 +1,6 @@
+{
+  "name": "AVIRO — Premium Men's Clothing",
+  "description": "Modern essentials and luxury streetwear designed for men. Dark charcoal minimalist aesthetic, crafted for confidence and individuality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
